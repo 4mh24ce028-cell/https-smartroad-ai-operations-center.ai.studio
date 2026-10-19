@@ -1,0 +1,6 @@
+{
+  "name": "SmartRoad-AI Operations Center",
+  "description": "Autonomous Computer Vision Fleet Surveillance Deck for municipal road inspection, GIS defect mapping, and contractor SLA dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
